@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "category": "young",
+      "details": [
+        {
+          "image": "https://www.billboard.com/files/styles/article_main_image/public/media/neil-young-1976-u-billboard-1548.jpg",
+          "name": "Neil Young",
+          "genre": "Folk, Folk Rock, Singer/Songwriter",
+          "bestAlbums": "After the Gold Rush (1970), On the Beach (1974), Tonight's the Night (1975)",
+          "newestAlbum": "Colorado (2019)"
+        }
+      ]
+    },
+    {
+      "category": "kraftwerk",
+      "details": [
+        {
+          "image": "https://muzikrono.org/wp-content/uploads/2014/12/h-kraftwerk-01-768x384.png",
+          "name": "Kraftwerk",
+          "genre": "Electronic, Krautrock, Synthpop",
+          "bestAlbums": "The Man Machine (1978), Autobahn (1974), Computer World (1981)",
+          "newestAlbum": "Tour de France Soundtracks (2003)"
+        }
+      ]
+    },
+    {
+      "category": "heat",
+      "details": [
+        {
+          "image": "https://www.irishtimes.com/polopoly_fs/1.3389508.1519310668!/image/image.jpg_gen/derivatives/box_620_330/image.jpg",
+          "name": "This Heat",
+          "genre": "Experimental Rock, Post Punk, Avant-Prog",
+          "bestAlbums": "Deceit (1984), This Heat (1979), Health and Efficiency EP (1980)",
+          "newestAlbum": "Deceit (1984)"
+        }
+      ]
+    }
+  ]
+}
